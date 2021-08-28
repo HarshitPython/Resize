@@ -1,4 +1,4 @@
-
+#Use tKinter.
 from tkinter import *
 def resize(ev=None):
     label.config(font='Helvetica -%d bold' % \
