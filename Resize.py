@@ -6,6 +6,7 @@ def resize(ev=None):
 top = Tk()
 top.geometry('250x150')
 
+
 label = Label(top, text='Harshit Shrivastava',
 font='Helvetica -12 bold')
 label.pack(fill=Y, expand=1)
